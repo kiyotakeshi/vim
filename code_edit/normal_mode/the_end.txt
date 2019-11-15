@@ -1,1 +1,13 @@
 The end is nigh
+
+// daw(delete a word) -> 単語だけでなく空白文字も削除、 . で再利用できる「単語削除」の指示ができる
+The end is
+
+// ファイル全体をコピー
+// gg
+// y
+// G
+The end is nigh
+
+// daw(delete a word) -> 単語だけでなく空白文字も削除、 . で再利用できる「単語削除」の指示ができる
+The end is

@@ -2,3 +2,13 @@ Line one
 Line two
 Line three
 Line four
+
+// >G -> ファイルの末尾までインデントを下げる
+// j
+// .
+// j.
+
+  Line one
+    Line two
+      Line three
+        Line four

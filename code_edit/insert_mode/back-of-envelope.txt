@@ -1,1 +1,5 @@
 6 chairs, each costing $35, totals $
+
+// A
+// <C-r>=6*35<CR> -> <C-r> は cotrol+r
+6 chairs, each costing $35, totals $210
