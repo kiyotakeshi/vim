@@ -4,3 +4,33 @@ Shopping list
     Beauty Parlor
         Buy nail polish remover
         Buy nails
+
+// 12行目に16行目の内容を現在の行に(.)コピー
+// :16copy.(もしくは :16t.)
+
+Shopping list
+    Hardware Store
+        Buy nails
+        Buy new hammer
+    Beauty Parlor
+        Buy nail polish remover
+        Buy nails
+
+// --------------------------------
+
+Shopping list
+    Hardware Store
+        Buy new hammer
+    Beauty Parlor
+        Buy nail polish remover
+        Buy nails
+
+// Vjj
+// :'<,'>m$   -> moveで移動させる('<,'>は自動で入力される)
+
+Shopping list
+    Beauty Parlor
+        Buy nail polish remover
+        Buy nails
+    Hardware Store
+        Buy new hammer

@@ -2,3 +2,16 @@ Chapter            Page
 Normal mode          15
 Insert mode          31
 Visual mode          44
+
+// <C-v>3j  -> ブロック指向のビジュアルモードにし、列選択
+// x...     -> 削除、列選択と削除の繰り返し
+// gv       -> 直前に行ったビジュアルモードでの選択範囲を再度選択
+// r|       -> 選択範囲を置換
+// yyp
+// Vr-      -> 行単位で列選択し置換
+
+Chapter    |   Page
+-------------------
+Normal mode|     15
+Insert mode|     31
+Visual mode|     44
